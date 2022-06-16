@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ainanaheardle/static/css/main.c3e8233d.css",
-    "main.js": "/ainanaheardle/static/js/main.bab5f60b.js",
+    "main.js": "/ainanaheardle/static/js/main.7809f804.js",
     "index.html": "/ainanaheardle/index.html",
     "main.c3e8233d.css.map": "/ainanaheardle/static/css/main.c3e8233d.css.map",
-    "main.bab5f60b.js.map": "/ainanaheardle/static/js/main.bab5f60b.js.map"
+    "main.7809f804.js.map": "/ainanaheardle/static/js/main.7809f804.js.map"
   },
   "entrypoints": [
     "static/css/main.c3e8233d.css",
-    "static/js/main.bab5f60b.js"
+    "static/js/main.7809f804.js"
   ]
 }
